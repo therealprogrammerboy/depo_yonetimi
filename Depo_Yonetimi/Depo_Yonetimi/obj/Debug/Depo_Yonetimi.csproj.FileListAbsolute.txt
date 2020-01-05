@@ -1,0 +1,14 @@
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\bin\Debug\Depo_Yonetimi.exe.config
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\bin\Debug\Depo_Yonetimi.exe
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\bin\Debug\Depo_Yonetimi.pdb
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.csprojAssemblyReference.cache
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.Properties.Resources.resources
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.csproj.GenerateResource.cache
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.exe
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.pdb
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.frmGiris.resources
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.frmAnaEkran.resources
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.frmGelen.resources
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.frmStok.resources
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.frmArama.resources
+C:\Users\r3tr0x\source\repos\Depo_Yonetimi\Depo_Yonetimi\obj\Debug\Depo_Yonetimi.frmSatis.resources
